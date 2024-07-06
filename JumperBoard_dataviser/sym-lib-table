@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MolexPicoLock")(type "KiCad")(uri "${KIPRJMOD}/Library/MolexPicoLock.kicad_sym")(options "")(descr ""))
+  (lib (name "TVSdiode")(type "KiCad")(uri "${KIPRJMOD}/Library/TVSdiode.kicad_sym")(options "")(descr ""))
+  (lib (name "RS422_RS485")(type "KiCad")(uri "${KIPRJMOD}/Library/RS422_RS485.kicad_sym")(options "")(descr ""))
+)
